@@ -2,8 +2,6 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=343107)
 
-<br/>
-
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cchitsiang)](https://github.com/anuraghazra/github-readme-stats)
 
 
