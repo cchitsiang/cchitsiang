@@ -1,12 +1,15 @@
 ### Hi there 👋
 
+### My Most Used Tech Stack
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,dotnet,react,nodejs,nestjs,mongodb,prisma,docker)](https://skillicons.dev)
+
 ![](https://hit.yhype.me/github/profile?user_id=343107)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=cchitsiang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cchitsiang)-->
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,dotnet,react,nodejs,nestjs,mongodb,prisma,docker)](https://skillicons.dev)
+
 
 <!--
 **cchitsiang/cchitsiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
