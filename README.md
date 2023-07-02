@@ -1,11 +1,21 @@
-### Hi there 👋
+### 
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Software Engineer from Malaysia</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cchitsiang" alt="cchitsiang" />
+  <img src="https://badges.pufler.dev/years/cchitsiang" alt="cchitsiang" />
+  <img src="https://badges.pufler.dev/commits/monthly/cchitsiang" alt="cchitsiang" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.calvinchankf.vercel.app/api?username=cchitsiang&show_icons=true&hide=issues" alt="cchitsiang" />
+</p>
 
 ### My Most Used Tech Stack
 [![SkillIcons](https://skillicons.dev/icons?i=js,ts,dotnet,react,nodejs,nestjs,mongodb,prisma,docker)](https://skillicons.dev)
 
 ![](https://hit.yhype.me/github/profile?user_id=343107)
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=cchitsiang)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cchitsiang)-->
@@ -25,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
