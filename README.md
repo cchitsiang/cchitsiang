@@ -17,6 +17,8 @@
 
 ![](https://hit.yhype.me/github/profile?user_id=343107)
 
+[![Last Stars Display](https://badges.pufler.dev/last-stars/cchitsiang?count=9&padding=15&perRow=3)](https://badges.pufler.dev)
+
 
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cchitsiang)-->
 
